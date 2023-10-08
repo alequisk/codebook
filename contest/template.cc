@@ -1,6 +1,7 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
 
+#define vt vector
 #define len(x) ((int)(x).size())
 #define all(x) (x).begin(), (x).end()
 #define rall(x) (x).rbegin(), (x).rend()
@@ -8,8 +9,6 @@ using namespace std;
 #define debug(x) cout << "[" #x << "] = " << x << '\n'
 
 typedef int64_t ll;
-typedef vector<ll> vl;
-typedef vector<int> vi;
 typedef pair<int, int> ii;
 
 #define nl '\n'
